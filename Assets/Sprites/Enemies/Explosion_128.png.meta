@@ -339,134 +339,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b7430186982b51d48acf1b18451172e1
+      spriteID: 23766cf6b723d954f8761125eaaa206a
       internalID: 1027351626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Explosion_128_10
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a5e97d0f5f71dc40bcf097b4d16708f
-      internalID: 1099313383
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Explosion_128_11
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd15be509dfffa541ad76b0a91460f76
-      internalID: -1945069830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Explosion_128_12
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a9f8b2f9817318241960eac305c7e9ae
-      internalID: -1208506265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Explosion_128_13
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8b4c4e2feed44a448bad3d0a23aa2dcd
-      internalID: -203582980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Explosion_128_14
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5bfb3025f5c3604db02f219e8048258
-      internalID: -1683119168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Explosion_128_15
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 0
-        width: 128
-        height: 128
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68eeab55a3e25b544ace68cfa951ad60
-      internalID: 1941380954
       vertices: []
       indices: 
       edges: []
@@ -484,12 +358,12 @@ TextureImporter:
     nameFileIdTable:
       Explosion_128_0: -124418963
       Explosion_128_1: 45127207
-      Explosion_128_10: 1099313383
-      Explosion_128_11: -1945069830
-      Explosion_128_12: -1208506265
-      Explosion_128_13: -203582980
-      Explosion_128_14: -1683119168
-      Explosion_128_15: 1941380954
+      Explosion_128_10: -1642463837
+      Explosion_128_11: -1492288542
+      Explosion_128_12: 2030186749
+      Explosion_128_13: 998731443
+      Explosion_128_14: -388116204
+      Explosion_128_15: -257804651
       Explosion_128_2: -2024496795
       Explosion_128_3: 882807004
       Explosion_128_4: 744976688
