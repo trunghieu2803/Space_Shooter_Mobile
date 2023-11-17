@@ -16,6 +16,7 @@ public class PlayerStats : MonoBehaviour
     {
         health = maxHealth;
         healthFill.fillAmount = health / maxHealth;
+        EndGameManager.endManager.gameOver = false;
     }
 
     public void PlayerTakeDamage(float damage)
@@ -29,6 +30,8 @@ public class PlayerStats : MonoBehaviour
         }
         if (health <= 0)
         {
+            EndGameManager.endManager.gameOver = true;
+            EndGameManager.endManager.StartResolveSequence();
             Instantiate(explosionPrefab, transform.position, transform.rotation);
             Destroy(gameObject);
         }
