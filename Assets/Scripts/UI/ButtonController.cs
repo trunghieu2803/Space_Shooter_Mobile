@@ -6,16 +6,16 @@ public class ButtonController : MonoBehaviour
 {
     public void loadLevelString(string levelName)
     {
-        SceneManager.LoadScene(levelName);
+        FadeCanvas.fader.FaderLoadString(levelName);
     }
 
     public void LoadLevelInt(int levelIndex)
     {
-        SceneManager.LoadScene(levelIndex);
+        FadeCanvas.fader.FadeLoadInt(levelIndex);
     }
 
     public void RestartLevel()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        FadeCanvas.fader.FadeLoadInt(SceneManager.GetActiveScene().buildIndex);
     }
 }
