@@ -103,6 +103,8 @@ MonoBehaviour:
   rb: {fileID: 4855704088348764751}
   damage: 1
   explosionPrefab: {fileID: 9208847186200418130, guid: 4931e724584575e4cb6400a4557b2d9d, type: 3}
+  anim: {fileID: 0}
+  scoreValue: 10
   minSpeed: 8
   maxSpeed: 15
   rotateSpeed: 100
@@ -141,6 +143,7 @@ CircleCollider2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6343811667674981145}
   m_Enabled: 1
+  serializedVersion: 3
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -164,7 +167,7 @@ CircleCollider2D:
     m_Bits: 4294967295
   m_IsTrigger: 1
   m_UsedByEffector: 0
-  m_UsedByComposite: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  serializedVersion: 2
   m_Radius: 0.55
